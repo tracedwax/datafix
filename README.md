@@ -6,7 +6,7 @@ Datafix provides a template generator for documenting and testing database hotfi
 
 Add this line to your application's Gemfile:
 
-    gem 'datafix', :github => 'Casecommons/datafix'
+    gem 'datafix', :git => 'git@github.com:tracedwax/datafix.git'
 
 And then execute:
 
